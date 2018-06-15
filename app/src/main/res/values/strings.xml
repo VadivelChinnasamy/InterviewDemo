@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DataStructure</string>
+
+    <string name="no_internet">No Internet Connection</string>
+    <string name="data_structure">Data Structure</string>
+    <string name="no_result_found">No Result Found</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="interview">Interview</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="forgot_your_password">Forgot your password ?</string>
+    <string name="login">Login</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="lorehm">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="skipped">Skipped</string>
+    <string name="home">Home</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ad1">ca-app-pub-4412776064239348/5067859624</string>
+    <string name="app_id">ca-app-pub-4412776064239348~7833623764</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="you_win">You Win !</string>
+    <string name="quiz">Quiz</string>
+    <string name="success">Success</string>
+
+</resources>

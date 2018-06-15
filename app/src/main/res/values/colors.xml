@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="light_black_clr">#3a444e</color>
+    <color name="white_clr">#ffffff</color>
+    <color name="hint_clr">#bebdbd</color>
+    <color name="black_clr">#232121</color>
+    <color name="theme_clr">#3a444e</color>
+    <color name="theme_dark_clr">#272e35</color>
+    <color name="btn_green_clr">#7ac761</color>
+    <color name="btn_login">#43a047</color>
+    <color name="fb_clr">#3a82cc</color>
+    <color name="yellow_clr">#e5e10b</color>
+    <color name="sky_clr">#00c3fe</color>
+    <color name="dark_blue_clr">#7320d8</color>
+    <color name="red_clr">#dc0a2d</color>
+
+</resources>
